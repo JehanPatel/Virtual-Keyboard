@@ -13,4 +13,4 @@ It tracks the hand and you can type by hovering over a button and bringing the f
 ## Features:
 - Easy to use.
 - Can be used anywhere.
-- Simple to use and understand
+- Simple to use and understand.
