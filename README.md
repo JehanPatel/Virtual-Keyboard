@@ -10,6 +10,11 @@ It tracks the hand and you can type by hovering over a button and bringing the f
 - `pip install opencv-python`
 - `pip install pynput`
 
+## Installation
+- Download the repository as a .zip file.
+- After downloading, extract all the files to the same folder.
+- Run `AI Keyboard.py` and it will work fine.
+
 ## Features:
 - Easy to use.
 - Can be used anywhere.
